@@ -1,0 +1,41 @@
+#bighead{
+    height: 100vh;
+    background-color: white;
+}
+#mainContent{
+ height: 100vh;
+ 
+}
+.text{
+    background-color: green;
+}
+.mainfooter{
+    height: 100vh;
+    background-color: blue;
+    background-image: url("../img/download.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 50cm;
+}
+.main-header{
+    text-align: center;
+}
+.navigationbar > ul{
+    display: flex;
+    justify-content: space-around;
+}
+.navigationbar>ul>li{
+    border-left: 1px solid;
+    border-right: 1px solid;
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+    list-style: none;
+    padding: 10px;
+    border-radius: 5px;
+   
+}
+    
+    
+    
+
+  
